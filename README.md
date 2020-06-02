@@ -1,5 +1,5 @@
 # socialLab-landing-page
-This is vanilla HTML/CSS project, responsive for all types of devises. 
+This is landing-page project, responsive for all types of devises. 
 
 View on [http://social-lab.surge.sh/](http://social-lab.surge.sh/)
 
