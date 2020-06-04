@@ -1,5 +1,5 @@
 # socialLab-landing-page
-This is landing-page project, responsive for all types of devises. 
+This is landing-page project, responsive for all types of devices. 
 
 View on [http://social-lab.surge.sh/](http://social-lab.surge.sh/)
 
